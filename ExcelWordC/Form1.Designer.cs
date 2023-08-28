@@ -84,7 +84,7 @@
             this.Controls.Add(this.Label1);
             this.Controls.Add(this.btnGuardar);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "C#";
             this.ResumeLayout(false);
             this.PerformLayout();
 
